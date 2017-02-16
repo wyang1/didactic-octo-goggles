@@ -12,12 +12,4 @@ waffles
 
 blah blah
 
-
-dzxfcgdfsgdfg
-sdfg
-sdfg
-sdf
-gsd
-fgsd
-fgsd
-fg
+cout << "I'm really dumb."" << endl;
